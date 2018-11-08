@@ -9,6 +9,14 @@
     }
 }
 
+.contact-form {
+    background: url(../img/square-robotics-logo.png); //no-repeat -500px -1000px;
+    .container {
+        background: #fff;
+        opacity: .8;
+    }
+}
+
 .showcase {
     background: url(../img/square-robotics-logo.png); //no-repeat -500px -1000px;
     height: 650px;
@@ -23,6 +31,20 @@
     .container {
         background: #fff;
         opacity: .8;
+        padding: 20px 30px 30px 30px;
+    }
+}
+
+.video-page {
+    background: url(../img/square-robotics-logo.png); //no-repeat -500px -1000px;
+
+    p {
+        font-size: 20px;
+    }
+
+    .container {
+        background: #fff;
+        opacity: .9;
         padding: 20px 30px 30px 30px;
     }
 }

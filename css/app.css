@@ -6,6 +6,12 @@
   .navbar .fab {
     font-size: 24px; }
 
+.contact-form {
+  background: url(../img/square-robotics-logo.png); }
+  .contact-form .container {
+    background: #fff;
+    opacity: .8; }
+
 .showcase {
   background: url(../img/square-robotics-logo.png);
   height: 650px;
@@ -18,6 +24,15 @@
   .showcase .container {
     background: #fff;
     opacity: .8;
+    padding: 20px 30px 30px 30px; }
+
+.video-page {
+  background: url(../img/square-robotics-logo.png); }
+  .video-page p {
+    font-size: 20px; }
+  .video-page .container {
+    background: #fff;
+    opacity: .9;
     padding: 20px 30px 30px 30px; }
 
 .section-a {
